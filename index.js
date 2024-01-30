@@ -50,7 +50,7 @@ app.post("/", async (req, res) => {
   }
 });
 
-app.listen(1337, (req, res) => console.log("running on 1337"));
+app.listen(8000, (req, res) => console.log("running on 8000"));
 
 async function calculateSituation(
   googleSheets,
