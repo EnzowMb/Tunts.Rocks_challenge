@@ -2,9 +2,38 @@
 
 ## 🎲 Como instalar e executar:
 
-```bash
-# Clonar este repositório: 
+1 - Clonar este repositório:
 
+```bash
+https://github.com/EnzowMb/Tunts.Rocks_challenge.git
+```
+
+2 - Executar o comando para instalar todas as dependências:
+
+```bash
+npm install
+```
+ou
+```bash
+npm i
+```
+
+3 - Executar o comando para rodar o projeto:
+```bash
+npm run dev
+```
+
+4 - Acessar o localhost com a porta 8000:
+```bash
+http://localhost:8000
+```
+
+5 - Clicar no botão:
+![image](https://github.com/EnzowMb/Tunts.Rocks_challenge/assets/89809584/377012ff-7271-4a5b-b33b-471ba5c00dfc)
+
+6 - Verificar a planilha:
+```bash
+https://docs.google.com/spreadsheets/d/1RBICUYHFJoQD_saZ9OdFmnuR_EDC0a5uPiqBftzb_ds/edit?usp=sharing
 ```
 
 ## Objetivo
@@ -33,3 +62,7 @@ EsLint
 Prettier
 Nodemon
 ```
+
+## 👥 Autor
+
+- **Enzo Martinelli**
