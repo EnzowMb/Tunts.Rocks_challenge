@@ -44,7 +44,7 @@ app.post("/", async (req, res) => {
 
     processSituation(googleSheets, auth, spreadsheetId, situations, sheetRange);
 
-    res.send("Medias calculadas com sucesso! Verfique a planilha");
+    res.send("Médias calculadas com sucesso! Verfique a planilha");
   } catch (error) {
     res.status(500).send("Internal Server Error");
   }
