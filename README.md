@@ -29,6 +29,8 @@ http://localhost:8000
 ```
 
 5 - Clicar no botão:
+<br>
+<br>
 ![image](https://github.com/EnzowMb/Tunts.Rocks_challenge/assets/89809584/377012ff-7271-4a5b-b33b-471ba5c00dfc)
 
 6 - Verificar a planilha:
